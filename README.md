@@ -3,24 +3,24 @@ The Simple Calculator is designed to perform basic arithmetic calculations, maki
 
 # Features
 
-Addition: Perform addition of two or more numbers.
-Subtraction: Subtract one number from another.
-Multiplication: Multiply numbers together.
-Division: Divide one number by another.
+- Addition: Perform addition of two or more numbers.
+- Subtraction: Subtract one number from another.
+- Multiplication: Multiply numbers together.
+- Division: Divide one number by another.
 
 # Highlighting Awesome Inputs
 
-**Intuitive User Interface:** The user interface is designed to be simple, clean, and easy to navigate. It ensures that users can effortlessly perform calculations.
-**Error Handling:** The calculator provides clear error messages and handles incorrect inputs, ensuring a smooth user experience.
-**Support basic Operations:** The calculator supports basic operations.
+- **Intuitive User Interface:** The user interface is designed to be simple, clean, and easy to navigate. It ensures that users can effortlessly perform calculations.
+- **Error Handling:** The calculator provides clear error messages and handles incorrect inputs, ensuring a smooth user experience.
+- **Support basic Operations:** The calculator supports basic operations.
 
 # Getting Started
-To run the Simple Calculator project on your local machine, follow these steps:
+- To run the Simple Calculator project on your local machine, follow these steps:
 
-Clone the repository from the GitHub link.
-Open the project in your favorite Java IDE (Eclipse, IntelliJ, etc.).
-Build and run the project.
-Start performing your calculations with the Simple Calculator!
+- Clone the repository from the GitHub link.
+- Open the project in your favorite Java IDE (Eclipse, IntelliJ, etc.).
+- Build and run the project.
+- Start performing your calculations with the Simple Calculator!
 
 # Contributions
 
